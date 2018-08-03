@@ -2,5 +2,10 @@
 
 
 void main(int argc,char** argv){
-	printf_s("Hello World! Alexandra");
+
+	printf("Hello World!");
+
+	printf("AICI O SA FIE CONFLICT");
+
+
 }
